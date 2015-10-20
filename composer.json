@@ -1,0 +1,13 @@
+{
+    "name": "shortlist-analog/test-2",
+    "description": "nothing",
+    "type": "wordpress-plugin",
+    "authors": [
+        {
+            "name": "Jon Sherrard",
+            "email": "jon@andthats.it"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
